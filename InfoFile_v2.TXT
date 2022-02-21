@@ -19,20 +19,20 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/Newtonsoft.Json.dll	2019
 2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/RestSharp.dll	2019
 
-2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/ApartmentParameters.addin	{PATHGLOBAL}\2020
-2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/ApartmentParameters.dll	{PATHGLOBAL}\2020
-2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/EPPlus.dll	{PATHGLOBAL}\2020
-2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/Newtonsoft.Json.dll	{PATHGLOBAL}\2020
-2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/RestSharp.dll	{PATHGLOBAL}\2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/ApartmentParameters.addin	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/ApartmentParameters.dll	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/EPPlus.dll	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/Newtonsoft.Json.dll	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/RestSharp.dll	2020
 
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartmentParameters.addin	{PATHGLOBAL}\2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartmentParameters.dll	{PATHGLOBAL}\2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/EPPlus.dll	{PATHGLOBAL}\2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Newtonsoft.Json.dll	{PATHGLOBAL}\2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/RestSharp.dll	{PATHGLOBAL}\2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartmentParameters.addin	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartmentParameters.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/EPPlus.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Newtonsoft.Json.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/RestSharp.dll	2021
 
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	{PATHGLOBAL}\2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	{PATHGLOBAL}\2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/EPPlus.dll	{PATHGLOBAL}\2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Newtonsoft.Json.dll	{PATHGLOBAL}\2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/RestSharp.dll	{PATHGLOBAL}\2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/EPPlus.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Newtonsoft.Json.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/RestSharp.dll	2022
