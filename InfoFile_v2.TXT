@@ -24,6 +24,10 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/Svg2Xaml.dll	2019
 2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/BrusnikaLibs/EPPlus.dll	2019/BrusnikaLibs
 2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/BrusnikaLibs/Brusnika_Programs.dll	2019/BrusnikaLibs
+2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/AdWindows.dll	2019
+2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/BRURevitToJson_App.addin	2019
+2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/RevitAPIIFC.dll	2019
+2019	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2019/Rvt2Json.App.dll	2019
 
 2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/ApartmentParameters.addin	2020
 2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/ApartmentParameters.dll	2020
@@ -36,6 +40,10 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/Svg2Xaml.dll	2020
 2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/BrusnikaLibs/EPPlus.dll	2020/BrusnikaLibs
 2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/BrusnikaLibs/Brusnika_Programs.dll	2020/BrusnikaLibs
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/AdWindows.dll	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/BRURevitToJson_App.addin	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/RevitAPIIFC.dll	2020
+2020	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2020/Rvt2Json.App.dll	2020
 
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartmentParameters.addin	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartmentParameters.dll	2021
@@ -48,6 +56,10 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Svg2Xaml.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/BrusnikaLibs/EPPlus.dll	2021/BrusnikaLibs
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/BrusnikaLibs/Brusnika_Programs.dll	2021/BrusnikaLibs
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AdWindows.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/BRURevitToJson_App.addin	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/RevitAPIIFC.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Rvt2Json.App.dll	2021
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	2022
@@ -60,4 +72,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Svg2Xaml.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BrusnikaLibs/EPPlus.dll	2022/BrusnikaLibs
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BrusnikaLibs/Brusnika_Programs.dll	2022/BrusnikaLibs
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/AdWindows.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BRURevitToJson_App.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/RevitAPIIFC.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Rvt2Json.App.dll	2022
 
