@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>BRUExporter</Name>
+    <Assembly>Rvt2Json.App.dll</Assembly>
+    <AddInId>4b47a687-718b-4c9c-bca1-8b7953c9c9d7</AddInId>
+    <FullClassName>Rvt2Json.App.RvtToJson_App</FullClassName>
+    <VendorId>Kulman</VendorId>
+    <VendorDescription>Kulman</VendorDescription>
+  </AddIn>
+</RevitAddIns>
