@@ -78,4 +78,6 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BRURevitToJson_App.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/RevitAPIIFC.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Rvt2Json.App.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ConceptApp.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Concept.dll	2022
 
