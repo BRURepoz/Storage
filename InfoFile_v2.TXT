@@ -62,6 +62,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Rvt2Json.App.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ConceptApp.addin	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Concept.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Xaml.Behaviors.dll	2021
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	2022
@@ -80,4 +81,5 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Rvt2Json.App.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ConceptApp.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Concept.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Xaml.Behaviors.dll	2022
 
