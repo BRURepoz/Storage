@@ -84,6 +84,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/CpuMathNative.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/KrFloorModel.zip	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/KrWallModel.zip	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AbcApp.addin	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ABC.dll	2021
 
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
@@ -125,4 +127,6 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/CpuMathNative.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/KrFloorModel.zip	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/KrWallModel.zip	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/AbcApp.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ABC.dll	2022
 
