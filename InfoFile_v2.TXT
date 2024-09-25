@@ -70,6 +70,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.Data.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.DataView.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.Transforms.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.KMeansClustering.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.PCA.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.StandardTrainers.dll	2021
@@ -113,6 +114,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.Data.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.DataView.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.Transforms.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.KMeansClustering.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.PCA.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.StandardTrainers.dll	2022
@@ -155,6 +157,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.Data.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.DataView.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.Transforms.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.KMeansClustering.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.PCA.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.StandardTrainers.dll	2023
