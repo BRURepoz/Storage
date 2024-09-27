@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ANKApp</Name>
+    <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2021\ANK.dll</Assembly>
+    <ClientId>59d92f79-fbb4-46db-8a23-05a0124d5fa1</ClientId>
+    <FullClassName>ANK.ANKApp</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
