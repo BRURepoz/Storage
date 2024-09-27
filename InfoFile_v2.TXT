@@ -88,6 +88,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/KrWallModel.zip	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AbcApp.addin	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ABC.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2021
 
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
@@ -132,6 +134,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/KrWallModel.zip	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/AbcApp.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ABC.dll	2022
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2022
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
 
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.dll	2023
@@ -175,4 +179,6 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/KrWallModel.zip	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/AbcApp.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ABC.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2022
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
 
