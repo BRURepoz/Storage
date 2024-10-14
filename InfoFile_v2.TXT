@@ -93,7 +93,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/modelAR_v1.onnx	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/normalizerAR_v1.onnx	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.OnnxRuntime.dll	2021
-
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/onnxruntime.dll	2021
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	2022
