@@ -139,6 +139,10 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ABC.dll	2022
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2022
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/modelAR_v1.onnx	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/normalizerAR_v1.onnx	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.OnnxRuntime.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/onnxruntime.dll	2021
 
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.dll	2023
@@ -184,4 +188,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ABC.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2022
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/modelAR_v1.onnx	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/normalizerAR_v1.onnx	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.OnnxRuntime.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/onnxruntime.dll	2021
 
