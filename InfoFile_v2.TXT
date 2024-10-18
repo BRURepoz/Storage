@@ -94,6 +94,10 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/normalizerAR_v1.onnx	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.OnnxRuntime.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/onnxruntime.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/EPPlus.Interfaces.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/EPPlus.System.Drawing.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.IO.RecyclableMemoryStream.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.ComponentModel.Annotations.dll	2021
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	2022
@@ -112,14 +116,14 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Rvt2Json.App.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ConceptApp.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Concept.dll	2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Xaml.Behaviors.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Xaml.Behaviors.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Bcl.Numerics.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.Core.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.CpuMath.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.Data.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.DataView.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.dll	2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.Transforms.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.Transforms.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.KMeansClustering.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.PCA.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.StandardTrainers.dll	2022
@@ -137,12 +141,16 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/KrWallModel.zip	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/AbcApp.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ABC.dll	2022
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2022
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/modelAR_v1.onnx	2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/normalizerAR_v1.onnx	2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.OnnxRuntime.dll	2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/onnxruntime.dll	2021
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/AnkApp.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/modelAR_v1.onnx	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/normalizerAR_v1.onnx	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.ML.OnnxRuntime.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/onnxruntime.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/EPPlus.Interfaces.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/EPPlus.System.Drawing.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.IO.RecyclableMemoryStream.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.ComponentModel.Annotations.dll	2022
 
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.dll	2023
@@ -168,7 +176,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.Data.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.DataView.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.dll	2023
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.ML.Transforms.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.Transforms.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.KMeansClustering.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.PCA.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.StandardTrainers.dll	2023
@@ -186,10 +194,14 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/KrWallModel.zip	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/AbcApp.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ABC.dll	2023
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/AnkApp.addin	2022
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ANK.dll	2022
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/modelAR_v1.onnx	2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/normalizerAR_v1.onnx	2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.OnnxRuntime.dll	2021
-2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/onnxruntime.dll	2021
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/AnkApp.addin	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ANK.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/modelAR_v1.onnx	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/normalizerAR_v1.onnx	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.ML.OnnxRuntime.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/onnxruntime.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/EPPlus.Interfaces.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/EPPlus.System.Drawing.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.IO.RecyclableMemoryStream.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.ComponentModel.Annotations.dll	2023
 
