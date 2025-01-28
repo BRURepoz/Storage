@@ -3,6 +3,7 @@ v 2020
 v 2021
 v 2022
 v 2023
+v 2024
 
 PATHGLOBAL	C:\ProgramData\Autodesk\Revit\Addins
 PATHCURRENT	Roaming\Autodesk\Revit\Addins
