@@ -107,6 +107,21 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.PlatformServices.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Sheets.v4.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/BimTangl.Export.Revit/BimTangl.Export.Revit.dll	2021/BimTangl.Export.Revit
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Bcl.AsyncInterfaces.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Bcl.Memory.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Bcl.Numerics.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Bcl.TimeProvider.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Extensions.Logging.Abstractions.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.IdentityModel.JsonWebTokens.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.IdentityModel.Logging.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.IdentityModel.Tokens.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.IdentityModel.Tokens.Jwt.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Text.Encodings.Web.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Text.Json.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.ValueTuple.dll	2021
+
+
+
 
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartmentParameters.dll	2022
@@ -167,6 +182,21 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Drive.v3.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.PlatformServices.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Sheets.v4.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BimTangl.Export.Revit/BimTangl.Export.Revit.dll	2022/BimTangl.Export.Revit
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Bcl.AsyncInterfaces.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Bcl.Memory.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Bcl.Numerics.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Bcl.TimeProvider.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Extensions.Logging.Abstractions.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.IdentityModel.JsonWebTokens.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.IdentityModel.Logging.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.IdentityModel.Tokens.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.IdentityModel.Tokens.Jwt.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.Text.Encodings.Web.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.Text.Json.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.ValueTuple.dll	2022
+
+
 
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartmentParameters.dll	2023
@@ -227,6 +257,20 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Drive.v3.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.PlatformServices.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Sheets.v4.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/BimTangl.Export.Revit/BimTangl.Export.Revit.dll	2023/BimTangl.Export.Revit
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Bcl.AsyncInterfaces.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Bcl.Memory.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Bcl.Numerics.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Bcl.TimeProvider.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Extensions.Logging.Abstractions.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.IdentityModel.JsonWebTokens.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.IdentityModel.Logging.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.IdentityModel.Tokens.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.IdentityModel.Tokens.Jwt.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.Text.Encodings.Web.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.Text.Json.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.ValueTuple.dll	2023
+
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.dll	2024
@@ -287,4 +331,18 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Drive.v3.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.PlatformServices.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Google.Apis.Sheets.v4.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/BimTangl.Export.Revit/BimTangl.Export.Revit.dll	2024/BimTangl.Export.Revit
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Bcl.AsyncInterfaces.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Bcl.Memory.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Bcl.Numerics.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Bcl.TimeProvider.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Extensions.Logging.Abstractions.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.IdentityModel.JsonWebTokens.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.IdentityModel.Logging.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.IdentityModel.Tokens.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/System.IdentityModel.Tokens.Jwt.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/System.Text.Encodings.Web.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/System.Text.Json.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/System.ValueTuple.dll	2024
+
 
