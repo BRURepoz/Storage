@@ -120,6 +120,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Text.Json.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.ValueTuple.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.IdentityModel.Abstractions.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/BimTangl.Export.Revit.dll	2021
 
 
 
@@ -197,6 +198,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.Text.Json.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/System.ValueTuple.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.IdentityModel.Abstractions.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BimTangl.Export.Revit.dll	2022
 
 
 
@@ -273,6 +275,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.Text.Json.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/System.ValueTuple.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.IdentityModel.Abstractions.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/BimTangl.Export.Revit.dll	2023
 
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
@@ -348,5 +351,6 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/System.Text.Json.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/System.ValueTuple.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.IdentityModel.Abstractions.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/BimTangl.Export.Revit.dll	2024
 
 
