@@ -202,6 +202,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BimTangl.Export.Revit.NoAuth.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/NLog.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ProductChecks.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ETPSSK.dll	2022
 
 
 
@@ -280,6 +281,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/BimTangl.Export.Revit.NoAuth.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/NLog.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ProductChecks.addin	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ETPSSK.dll	2023
 
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
@@ -357,6 +359,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/BimTangl.Export.Revit.NoAuth.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/NLog.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ProductChecks.addin	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ETPSSK.dll	2024
+
 
 
 
