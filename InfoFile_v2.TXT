@@ -123,6 +123,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/NLog.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ProductChecks.addin	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ETPSSK.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/LogSenderLibrary.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Office.Interop.Excel.dll	2021
 
 
 
@@ -203,6 +205,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/NLog.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ProductChecks.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ETPSSK.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/LogSenderLibrary.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Office.Interop.Excel.dll	2022
 
 
 
@@ -282,6 +286,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/NLog.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ProductChecks.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ETPSSK.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/LogSenderLibrary.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Office.Interop.Excel.dll	2023
 
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
@@ -360,6 +366,9 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/NLog.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ProductChecks.addin	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ETPSSK.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/LogSenderLibrary.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Office.Interop.Excel.dll	2024
+
 
 
 
