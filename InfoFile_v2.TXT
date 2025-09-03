@@ -123,6 +123,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/LogSenderLibrary.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Office.Interop.Excel.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/MasterplanPlugin.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/MasterplanApp.addin	2021
 
 
 
@@ -136,12 +137,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Caliburn.Micro.Platform.Core.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Caliburn.Micro.Platform.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Svg2Xaml.dll	2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BrusnikaLibs/EPPlus.dll	2022/BrusnikaLibs
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BrusnikaLibs/Brusnika_Programs.dll	2022/BrusnikaLibs
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/AdWindows.dll	2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/BRURevitToJson_App.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/RevitAPIIFC.dll	2022
-2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Rvt2Json.App.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ConceptApp.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Concept.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Xaml.Behaviors.dll	2022
@@ -206,6 +203,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/LogSenderLibrary.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/Microsoft.Office.Interop.Excel.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/MasterplanPlugin.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/MasterplanApp.addin	2022
 
 
 
@@ -218,12 +216,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Caliburn.Micro.Platform.Core.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Caliburn.Micro.Platform.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Svg2Xaml.dll	2023
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/BrusnikaLibs/EPPlus.dll	2023/BrusnikaLibs
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/BrusnikaLibs/Brusnika_Programs.dll	2023/BrusnikaLibs
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/AdWindows.dll	2023
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/BRURevitToJson_App.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/RevitAPIIFC.dll	2023
-2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Rvt2Json.App.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ConceptApp.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Concept.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Xaml.Behaviors.dll	2023
@@ -288,6 +282,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/LogSenderLibrary.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/Microsoft.Office.Interop.Excel.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/MasterplanPlugin.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/MasterplanApp.addin	2023
 
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
@@ -299,12 +294,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Caliburn.Micro.Platform.Core.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Caliburn.Micro.Platform.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Svg2Xaml.dll	2024
-2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/BrusnikaLibs/EPPlus.dll	2024/BrusnikaLibs
-2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/BrusnikaLibs/Brusnika_Programs.dll	2024/BrusnikaLibs
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/AdWindows.dll	2024
-2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/BRURevitToJson_App.addin	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/RevitAPIIFC.dll	2024
-2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Rvt2Json.App.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ConceptApp.addin	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Concept.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/Microsoft.Xaml.Behaviors.dll	2024
@@ -369,6 +360,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/LogSenderLibrary.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/Microsoft.Office.Interop.Excel.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/MasterplanPlugin.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/MasterplanApp.addin	2024
+
 
 
 
