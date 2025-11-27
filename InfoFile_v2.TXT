@@ -4,6 +4,7 @@ v 2021
 v 2022
 v 2023
 v 2024
+v 2025
 
 PATHGLOBAL	C:\ProgramData\Autodesk\Revit\Addins
 PATHCURRENT	Roaming\Autodesk\Revit\Addins
@@ -367,6 +368,88 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/MasterplanPlugin.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/MasterplanApp.addin	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ReleaseTools.dll	2024
+
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartmentParameters.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartmentParameters.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/EPPlus.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Newtonsoft.Json.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/RestSharp.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Caliburn.Micro.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Caliburn.Micro.Platform.Core.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Caliburn.Micro.Platform.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Svg2Xaml.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/AdWindows.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/RevitAPIIFC.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Rvt2Json.App.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ConceptApp.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Concept.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Xaml.Behaviors.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Bcl.Numerics.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.Core.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.CpuMath.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.Data.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.DataView.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.Transforms.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.KMeansClustering.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.PCA.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.StandardTrainers.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Buffers.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.CodeDom.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Collections.Immutable.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Memory.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Numerics.Tensors.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Numerics.Vectors.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Runtime.CompilerServices.Unsafe.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Threading.Channels.Unsafe.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Threading.Tasks.Extensions.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/CpuMathNative.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/KrFloorModel.zip	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/KrWallModel.zip	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/AbcApp.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ABC.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/AnkApp.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ANK.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/modelAR_v1.onnx	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/normalizerAR_v1.onnx	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.ML.OnnxRuntime.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/onnxruntime.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/EPPlus.Interfaces.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/EPPlus.System.Drawing.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.IO.RecyclableMemoryStream.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.ComponentModel.Annotations.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.Auth.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.Auth.PlatformServices.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.Core.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.Drive.v3.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.PlatformServices.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Google.Apis.Sheets.v4.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Bcl.AsyncInterfaces.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Bcl.Memory.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Bcl.Numerics.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Bcl.TimeProvider.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Extensions.Logging.Abstractions.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.IdentityModel.JsonWebTokens.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.IdentityModel.Logging.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.IdentityModel.Tokens.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.IdentityModel.Tokens.Jwt.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Text.Encodings.Web.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.Text.Json.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/System.ValueTuple.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.IdentityModel.Abstractions.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/BimTangl.Export.Revit.NoAuth.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/NLog.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ProductChecks.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ETPSSK.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/LogSenderLibrary.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Office.Interop.Excel.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/MasterplanPlugin.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/MasterplanApp.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/onnxruntime.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/onnxruntime_providers_shared.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ReleaseTools.dll	2025
+
 
 
 
