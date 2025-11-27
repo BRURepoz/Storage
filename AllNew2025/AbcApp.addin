@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ABCApp</Name>
+    <Assembly>ABC.dll</Assembly>
+    <ClientId>920480c7-0641-4d4a-bed6-000de57e913e</ClientId>
+    <FullClassName>ABC.ABCApp</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

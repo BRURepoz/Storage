@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Application">
     <Name>ConceptApp</Name>
     <Assembly>Concept.dll</Assembly>
-    <ClientId>5b620d07-96e9-4585-ade6-c3637ae7fe3a</ClientId>
+    <AddInId>5b620d07-96e9-4585-ade6-c3637ae7fe3a</AddInId>
     <FullClassName>Concept.ConceptApp</FullClassName>
     <VendorId>ADSK</VendorId>
     <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
