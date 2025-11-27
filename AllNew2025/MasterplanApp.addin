@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>MasterplanApp</Name>
+    <Assembly>MasterplanPlugin.dll</Assembly>
+    <ClientId>647caf32-0de5-4786-bbf4-ff0d16cbb41b</ClientId>
+    <FullClassName>MasterplanPlugin.MasterplanApp</FullClassName>
+    <VendorId>BRUSNIKA</VendorId>
+    <VendorDescription>BRUSNIKA plugins</VendorDescription>
+  </AddIn>
+</RevitAddIns>
