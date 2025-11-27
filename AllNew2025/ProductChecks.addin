@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+   <AddIn Type="Application">
+    <Name>ProductChecks</Name>
+    <Assembly>ANK.dll</Assembly>
+    <ClientId>343571f3-61ef-414b-9139-51b5722fe53c</ClientId>
+    <FullClassName>ANK.ProductChecksApp</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
