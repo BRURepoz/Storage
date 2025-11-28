@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>FormIt Conversion</Name>
+    <Assembly>C:\Program Files\Autodesk\FormIt Converter for Revit 2025\FormItConverterRibbon.dll</Assembly>
+    <ClientId>ECCB03C4-B3C3-4C39-868E-5D65D9CE20BD</ClientId>
+    <FullClassName>FormItConverter.Ribbon</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription><![CDATA[https://knowledge.autodesk.com/search?p=REVITPRODUCTS&search=FormIt%20Converter&sort=score&page=1&knowledgeSource=Product%20Documentation]]></VendorDescription>
+  </AddIn>
+   <AddIn Type="DBApplication">
+      <Name>Import AXM</Name>
+      <Assembly>C:\Program Files\Autodesk\FormIt Converter for Revit 2025\AXMImporter.dll</Assembly>
+      <ClientId>50B41C94-1072-4607-8D3C-6ABDBE3BBCC7</ClientId>
+      <FullClassName>AXMImporterWrapper.AXMImporterApp</FullClassName>
+      <VendorId>ADSK</VendorId>
+      <VendorDescription><![CDATA[https://knowledge.autodesk.com/search?p=REVITPRODUCTS&search=FormIt%20Converter&sort=score&page=1&knowledgeSource=Product%20Documentation]]></VendorDescription>
+   </AddIn>
+</RevitAddIns>

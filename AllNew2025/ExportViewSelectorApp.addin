@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Assembly>.\ExportViewSelectorAddin\ExportViewSelectorAddin.dll</Assembly>
+    <AddInId>78BD1446-1817-4842-8075-591B0424ACAA</AddInId>
+    <FullClassName>Autodesk.Revit.Addin.ExportViewSelector.ExportViewSelectorApp</FullClassName>
+    <Name>Views For A360</Name>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

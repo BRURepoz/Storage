@@ -1,0 +1,11 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>eTransmit for Revit</Name>
+    <Assembly>C:\Program Files\Autodesk\eTransmit for Revit 2025\eTransmitForRevit.dll</Assembly>
+    <AddInId>1ee88eb1-b787-425d-8dce-40754b90cbf6</AddInId>
+    <FullClassName>eTransmitForRevit.eTransmitApplication</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

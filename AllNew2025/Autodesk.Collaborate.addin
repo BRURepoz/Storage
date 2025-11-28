@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Collaborate</Name>
+    <Assembly>C:\Program Files\Autodesk\Cloud Models for Revit 2025\Collaborate.dll</Assembly>
+    <AddInId>14F73F04-900E-4E24-8D85-44C71092B6E9</AddInId>
+    <FullClassName>Autodesk.Revit.UI.Collaborate.CollaborateApplication</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>![CDATA[https://www.autodesk.com/support/technical/search?qt=Revit%20Cloud%20Worksharing]]</VendorDescription>
+  </AddIn>
+  <AddIn Type="DBApplication">
+    <Name>CollaborateDB</Name>
+    <Assembly>C:\Program Files\Autodesk\Cloud Models for Revit 2025\CollaborateDB.dll</Assembly>
+    <AddInId>BB3086BE-63BB-44BD-99EB-D584C013CF2F</AddInId>
+    <FullClassName>Autodesk.Revit.UI.Collaborate.CollaborateDBApplication</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>![CDATA[https://www.autodesk.com/support/technical/search?qt=Revit%20Cloud%20Worksharing]]</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>SkyscraperClientHostApplication</Name>
+    <Assembly>C:\Program Files\Autodesk\Cloud Models for Revit 2025\SkyscraperClientHost.dll</Assembly>
+    <ClientId>22F74ACE-E812-4CED-BEF0-7052C755AA2D</ClientId>
+    <FullClassName>SkyscraperClientHost.SkyscraperClientHostApplication</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>![CDATA[https://www.autodesk.com/support/technical/search?qt=Revit%20Cloud%20Worksharing]]</VendorDescription>
+  </AddIn>
+</RevitAddIns>

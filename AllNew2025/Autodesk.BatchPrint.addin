@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Batch Print</Name>
+    <Assembly>C:\Program Files\Autodesk\Batch Print for Revit 2025\Autodesk.BatchPrint.Application.dll</Assembly>
+    <ClientId>9d508589-48b6-4ff6-a50d-d16d77c585a1</ClientId>
+    <FullClassName>Revit.PrintHarness.PrintHarnessApplication</FullClassName>
+	<VendorId>ADSK</VendorId>
+	<VendorDescription>
+    <![CDATA[https://knowledge.autodesk.com/search?p=REVITPRODUCTS&search=batch%20print&sort=score&page=1&knowledgeSource=Product%20Documentation]]>
+  </VendorDescription>
+  </AddIn>
+</RevitAddIns>
