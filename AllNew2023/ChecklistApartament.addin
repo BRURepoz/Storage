@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application ApartamentChecklist</Name>
+    <Assembly>ApartamentChecklist.dll</Assembly>
+    <FullClassName>ApartamentChecklist.ApartmentApp</FullClassName>
+    <ClientId>43E1F069-9920-491E-82AB-F81367975E04</ClientId>
+    <VendorId>BP</VendorId>
+    <VendorDescription>Habarov.Brusnika, n.davydov@brusnika.ru </VendorDescription>
+  </AddIn>
+</RevitAddIns>

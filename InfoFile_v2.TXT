@@ -128,6 +128,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/onnxruntime.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/onnxruntime_providers_shared.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ReleaseTools.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartamentChecklist.dll	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ChecklistApartament.addin	2021
 
 
 
@@ -209,6 +211,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/MasterplanPlugin.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/MasterplanApp.addin	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ReleaseTools.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartamentChecklist.dll	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ChecklistApartament.addin	2022
 
 
 
@@ -289,6 +293,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/MasterplanPlugin.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/MasterplanApp.addin	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ReleaseTools.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartamentChecklist.dll	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ChecklistApartament.addin	2023
 
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
@@ -368,6 +374,9 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/MasterplanPlugin.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/MasterplanApp.addin	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ReleaseTools.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartamentChecklist.dll	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ChecklistApartament.addin	2024
+
 
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartmentParameters.addin	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartmentParameters.dll	2025
@@ -449,6 +458,8 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/onnxruntime.dll	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/onnxruntime_providers_shared.dll	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ReleaseTools.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartamentChecklist.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ChecklistApartament.addin	2025
 
 
 
