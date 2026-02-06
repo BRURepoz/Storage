@@ -460,6 +460,9 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ReleaseTools.dll	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartamentChecklist.dll	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ChecklistApartament.addin	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Office.Interop.Word.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Vbe.Interop.dll	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/OFFICE.DLL	2025
 
 
 
