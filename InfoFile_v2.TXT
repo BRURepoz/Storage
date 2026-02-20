@@ -130,6 +130,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ReleaseTools.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ApartamentChecklist.dll	2021
 2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/ChecklistApartament.addin	2021
+2021	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Resources.Extensions.dll	2021
 
 
 
@@ -213,6 +214,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ReleaseTools.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ApartamentChecklist.dll	2022
 2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2022/ChecklistApartament.addin	2022
+2022	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Resources.Extensions.dll	2022
 
 
 
@@ -295,6 +297,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ReleaseTools.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ApartamentChecklist.dll	2023
 2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2023/ChecklistApartament.addin	2023
+2023	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Resources.Extensions.dll	2023
 
 
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartmentParameters.addin	2024
@@ -376,6 +379,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ReleaseTools.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ApartamentChecklist.dll	2024
 2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2024/ChecklistApartament.addin	2024
+2024	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Resources.Extensions.dll	2024
 
 
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/ApartmentParameters.addin	2025
@@ -463,6 +467,7 @@ DEL	C:\ProgramData\Autodesk\Revit\Addins\{VERSION}\SmallPlugins.dll
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Office.Interop.Word.dll	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/Microsoft.Vbe.Interop.dll	2025
 2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2025/OFFICE.DLL	2025
+2025	https://raw.githubusercontent.com/BRURepoz/Storage/main/AllNew2021/System.Resources.Extensions.dll	2025
 
 
 
